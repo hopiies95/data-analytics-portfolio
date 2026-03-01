@@ -1,4 +1,4 @@
-# Hope Broadway – Data Analytics Portfolio
+# Mrs. Hope Baldridge – Data Analytics Portfolio
 
 ## About Me
 I am a B.S. Data Science student with experience in SQL, Python, Excel, and business data analysis. I am passionate about transforming raw data into actionable insights that support strategic decision-making.
